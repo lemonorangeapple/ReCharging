@@ -2,7 +2,7 @@
 
 用法说明：
 
-初始化数据包或继续计费系统运行：`/function rcg:init`
+初始化计分板或继续计费系统运行：`/function rcg:init`
 
 “进站”命令方块（脉冲，红石控制）：`/function rcg:enter`
 
